@@ -3,4 +3,5 @@
 -git init
 -checkout
 -merge feature
--branch 
+-branch
+# This is an amazing project
